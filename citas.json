@@ -5,5 +5,12 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "vomito"
+  },
+  {
+    "nombre": "zafiro",
+    "edad": "4 años",
+    "animal": "gato",
+    "color": "naranja",
+    "enfermedad": "hambre"
   }
 ]
